@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "Working with custom resources and S3",
+  "Description": "Working with custum resources and S3",
   "Parameters": {
     "S3BucketName": {
       "Type": "String",
