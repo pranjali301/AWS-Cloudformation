@@ -13,4 +13,4 @@ In this hands on, we will use the attached CloudFormation template to provision 
 3) Make the required changes.
 
 For any further concerns,
-**Contact:** contact@workfall.com
+**Contact:** Pranjalikomal5@gmail.com
